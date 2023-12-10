@@ -14,7 +14,8 @@ Analyze the provided sample data and report key findings to the strategy team of
 Power Query: ETL ⭐ PowerBI: Dashboard ⭐ Canva: Graphics
 
 #	Business-related Term
--	UPI or Unified Payments Interface is a popular mobile payment method that allows you to transfer funds from one bank account to the other, instantly and free of charge.
+- Avg income utilization % = avg spending / avg income. The higher the average income utilisation %, the more is their likelihood to use credit cards.
+-	Payment method: UPI or Unified Payments Interface is a popular mobile payment method that allows you to transfer funds from one bank account to the other, instantly and free of charge.
 
 #	Methodology
 -	Data Preprocessing: The dataset will be cleansed and prepared, addressing missing values, outliers, and data inconsistencies.
@@ -27,12 +28,12 @@ o	Strange data: number of transaction is 144000 for every month
 # Analysis
 1. **Customer Demographic**
 >
-<img width="1204" alt="image" src="https://github.com/thupham16/banking-analysis/assets/119646834/1c8df802-afd1-4b11-9731-b27f3f0b5ae4">
+> <img width="1204" alt="image" src="https://github.com/thupham16/banking-analysis/assets/119646834/1c8df802-afd1-4b11-9731-b27f3f0b5ae4">
 >
 Customers are classified based on demography with key findings:
->
 - Number of male customers is nearly double that of female customers. Additionally, a significant portion of total customers falls within the 25-34 age segment, approximately 38%.
+- Mumbai and Chennai cities combined contribute almost half of the total customer base, with 27% and 21% of the customers, respectively.
 - The majority of customers, accounting for 78.4%, are married, while single customers make up 21.6% of the total.
-- Mumbai and Chennai cities contribute almost half of the total customer base, with 27% and 21% of the customers, respectively.
 - The most popular occupation is Salaried IT employees, followed by Salaried other employees and Freelancers.
 - Based on the analysis of monthly average income, customers can be categorized into three groups: under 40k INR (49% of customers), 50-60k INR (46% of customers), and above 70k INR (5% of customers). It reveals that the majority of customers fall within the under 40k INR category, followed closely by the 50-60k INR group.
+
