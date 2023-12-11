@@ -3,13 +3,15 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 AtliQ Data Services is requested to make a proposal to implement this project by working with sample data before handing over the full project, which includes 4000 customers across five cities on their online spending and other details.
 
 #	Requirement
-Analyze the provided sample data and report key findings to the strategy team of Mitron Bank. This analysis is expected to guide them in tailoring the credit cards to customer needs and market trends by providing insights based on the data, actionable and data-driven recommendations.
-
-#	Task
--	Create Metrics
--	Design Dashboard
--	Present Insights
--	Use additional data based on your own research to support your recommendations.
+- Requirement: Analyze the provided sample data and report key findings to the strategy team of Mitron Bank. This analysis is expected to guide them in tailoring the credit cards to customer needs and market trends by providing insights based on the data, actionable and data-driven recommendations.
+- Task
+  -	Create Metrics
+  -	Design Dashboard
+  -	Present Insights
+  -	Use additional data based on your own research to support your recommendations.
+# Outputs
+- Interactive Dashboard
+- Presentation
 # Tools used
 Power Query: ETL ⭐ PowerBI: Dashboard ⭐ Canva: Graphics
 
