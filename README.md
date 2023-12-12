@@ -49,7 +49,8 @@ There is a moderate positive correlation of 0.64 between income and spending, in
 - Male customers' spending doubles that of females, with a particular emphasis on bill payments, while female customers prioritize health and wellness expenses.
 - Three-fourths of the total spending is attributed to customers between the ages of 25 and 45. This finding indicates that customers within this age range should be considered as the primary target audience in terms of spending.
 >
->![image](https://github.com/thupham16/banking-analysis/assets/119646834/ee46af24-9685-493c-acfa-87d562c8c3d0)
+>![image](https://github.com/thupham16/banking-analysis/assets/119646834/7fb76e5b-d51f-4955-a21a-8995ce2f3bee)
+
 
 
 - Customers allocate a significant portion of their income towards expenditures with average income utilization rate at 42%. This indicates a greater likelihood of customers relying on credit cards to manage their expenses and make purchases.
