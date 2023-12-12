@@ -49,9 +49,10 @@ There is a moderate positive correlation of 0.64 between income and spending, in
 - Male customers' spending doubles that of females, with a particular emphasis on bill payments, while female customers prioritize health and wellness expenses.
 - Three-fourths of the total spending is attributed to customers between the ages of 25 and 45. This finding indicates that customers within this age range should be considered as the primary target audience in terms of spending.
 >
->![image](https://github.com/thupham16/banking-analysis/assets/119646834/64e6cbbd-6c8b-4d51-bc0b-f8a9b658b903)
+>![image](https://github.com/thupham16/banking-analysis/assets/119646834/ee46af24-9685-493c-acfa-87d562c8c3d0)
 
-- The utilization rates for all groups are relatively low ~ around 1% - only a small portion of their income is being utilized for expenses. Indicating that customers are not heavily relying on credit cards for their spending with utilization rate around 1% only.
-- Customers in the 34-45 years old segment are utilizing a larger proportion of their income for spending purposes, which highlights their ability to use credit cards for their purchases.
-- While Salaried IT employees spend the most with highest utilization rate 1.4%, Freelancers also a potential group for using credit cards as they have lower income but utilization rate rank 2nd high at 1.27%.
+
+- Customers allocate a significant portion of their income towards expenditures with average income utilization rate at 42%. This indicates a greater likelihood of customers relying on credit cards to manage their expenses and make purchases.
+- Customers in the 34-45 years old segment are utilizing a larger proportion of their income for spending purposes with 47%, which highlights their ability to use credit cards for their purchases.
+- While Salaried IT employees spend the most with highest utilization rate at 51%, Freelancers also a potential group for using credit cards as they have lower income but utilization rate rank 2nd high at 46%.
 - Male customers demonstrate a higher demand for using credit cards, as indicated by their higher spending and utilization rate.
