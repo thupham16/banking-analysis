@@ -1,3 +1,5 @@
+This analysis is to propose a development strategy in the Banking domain, provided by Codebasics. Here is the [challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge).
+
 # Problem Statement
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market. 
 AtliQ Data Services is requested to make a proposal to implement this project by working with sample data before handing over the full project, which includes 4000 customers across five cities on their online spending and other details.
