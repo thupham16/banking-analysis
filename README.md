@@ -12,7 +12,7 @@ AtliQ Data Services is requested to make a proposal to implement this project by
   -	Present Insights
   -	Use additional data based on your own research to support your recommendations.
 # Outputs
-- [Interactive Dashboard](https://www.novypro.com/project/banking-analysis)
+- [Interactive Dashboard](https://www.novypro.com/project/banking-analysis-power-bi)
 - [Presentation](https://github.com/thupham16/banking-analysis/blob/main/Banking%20analysis.pdf) 
 # Tools used
 Power Query: ETL ⭐ PowerBI: Dashboard ⭐ Canva: Graphics
